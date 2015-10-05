@@ -31,6 +31,7 @@ library
       template-haskell
   exposed-modules:
     Data.Constants.Mechanics
+    Data.Constants.Thermodynamics
     Data.Constants.Math
     Data.Dimensions.SI
     Data.Metrology.SI
